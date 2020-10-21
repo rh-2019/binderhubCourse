@@ -2,3 +2,12 @@ yfinance
 numpy
 scipy
 matplotlib
+pandas
+pandas_profiling
+seaborn
+altair
+vega_datasets
+plotly
+bokeh
+yfinance
+sklearn
